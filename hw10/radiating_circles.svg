@@ -133,8 +133,8 @@
 
   
   //最外面的大圓
-  <circle cx="256" cy="256" r="320" fill="none" stroke="blue" stroke-width="3" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100" transform="rotate(90,256,256)">
-    <animate attributeName="stroke-dashoffset" to="0" begin="1.0s" dur="2.0s" repeatCount="1" fill="freeze"/>
+  <circle cx="256" cy="256" r="320" fill="none" stroke="black" stroke-width="3" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100" transform="rotate(90,256,256)">
+    <animate attributeName="stroke-dashoffset" to="0" begin="5.0s" dur="8.0s" repeatCount="1" fill="freeze"/>
   </circle>
 
   //從上畫中圓
